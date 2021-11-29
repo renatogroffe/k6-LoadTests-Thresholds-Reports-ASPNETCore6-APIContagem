@@ -1,0 +1,1 @@
+# k6-LoadTests-Thresholds-Reports-ASPNETCore6-APIContagem
